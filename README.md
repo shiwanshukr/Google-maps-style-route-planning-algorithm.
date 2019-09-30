@@ -13,7 +13,7 @@ The Map objects have two properties you will want to use to implement A* search:
 The intersections are represented as a dictionary.
 
 ### Below represents adjacency the matrix which conatains the linkage of roads to each node
-map_40.roads: 
+map_40.roads:
 [[36, 34, 31, 28, 17],
  [35, 31, 27, 26, 25, 20, 18, 17, 15, 6],
  [39, 36, 21, 19, 9, 7, 4],
